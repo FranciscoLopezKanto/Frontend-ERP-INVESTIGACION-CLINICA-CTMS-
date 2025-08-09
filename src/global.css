@@ -1,0 +1,28 @@
+@media (max-width: 768px) {
+  body {
+    padding: 8px;
+  }
+
+  .grid-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .sidebar {
+    display: none;
+  }
+
+  .main-content {
+    width: 100%;
+  }
+
+  .button {
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  .table th, .table td {
+    font-size: 12px;
+    padding: 4px;
+  }
+}

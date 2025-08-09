@@ -57,3 +57,4 @@ export default tseslint.config({
 # Front-ERP-Clinico
 Sistema de gestión clínica desarrollado a medida para centros de investigación, enfocado en la gestión de estudios clínicos, pacientes, personal investigador y reportabilidad operativa. Este ERP permite centralizar procesos clave, mejorar la trazabilidad, reducir la carga operativa y optimizar la toma de decisiones clínicas y administrativas.
 >>>>>>> 8f9b620d63766b7e36b964b25b4e40d3321c9395
+git commit -m "first commit"
